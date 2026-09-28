@@ -1,0 +1,659 @@
+[
+ {
+  "url": "https://azimuth.com.my/",
+  "final_url": "https://azimuth.com.my/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Azimuth Energy — Company website"
+  ]
+ },
+ {
+  "url": "https://my.linkedin.com/company/azimuth-energy-sdn-bhd",
+  "final_url": "https://my.linkedin.com/company/azimuth-energy-sdn-bhd",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Azimuth Energy — LinkedIn"
+  ]
+ },
+ {
+  "url": "https://carsem.com/",
+  "final_url": "https://carsem.com/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Carsem (M) Sdn Bhd — Carsem careers / website"
+  ]
+ },
+ {
+  "url": "https://www.linkedin.com/in/guslund?fromQR=1",
+  "final_url": "https://www.linkedin.com/in/guslund?fromQR=1",
+  "status": 999,
+  "verdict": "DEAD (999)",
+  "used_by": [
+   "Cegal — Recruiter's LinkedIn (Joachim Croft Guslund)"
+  ]
+ },
+ {
+  "url": "https://forms.gle/1m9saSWn1RnxknyP6",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSfhLf93oLU4M6B19HXy0mhOQEgxhGU4mdPgo9wFmFa9Vrx4mg/viewform?usp=send_form",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "Celestica Malaysia — Intern & Fresh Graduate Application Form"
+  ]
+ },
+ {
+  "url": "https://www.linkedin.com/company/edra-power-holdings-sdn-bhd/",
+  "final_url": "https://www.linkedin.com/company/edra-power-holdings-sdn-bhd/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "CGN EDRA — LinkedIn"
+  ]
+ },
+ {
+  "url": "https://tinyurl.com/UTPxCIMB26",
+  "final_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=nwHqyHKU0Eqypd23BWwXeu8x3oj5S-pNi6zVFW0LFdpUQzZXTUZXVTNLTlEyTDgxRUhWV1oyQ0VBTS4u&route=shorturl",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "CIMB — Join #teamCIMB"
+  ]
+ },
+ {
+  "url": "https://forms.cloud.microsoft/r/A8HaJE7xxW",
+  "final_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=nwHqyHKU0Eqypd23BWwXekQe9j7QBQRNo8Bw2DqQUZhUMzZINE5BWElIQlU5TlZWMEdYTEtaOVZOSSQlQCN0PWcu&route=shorturl",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "CIMB — ELP Digital & Data (ELPDD) application"
+  ]
+ },
+ {
+  "url": "https://tinyurl.com/ELP-Commercial-27",
+  "final_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=nwHqyHKU0Eqypd23BWwXeorvl4r704xFu7rutdwf5ZVUODNTMVZTS1ZQUERMT1ZURDFCVTFNMFdXOS4u",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "CIMB — ELP Commercial Banking"
+  ]
+ },
+ {
+  "url": "https://www.instagram.com/forwardyourcareer/",
+  "final_url": "https://www.instagram.com/forwardyourcareer/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "CIMB — Instagram @forwardyourcareer"
+  ]
+ },
+ {
+  "url": "https://forms.cloud.microsoft/r/t5K5sL2vTv",
+  "final_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=3XysL2d_YkOQ8jWL27j4EvZUZ_MMzItJqU-08PlQttJUM1hEN1pPTTFZMkQ1VDZQMTZRMVg4Mk44Qy4u&route=shorturl",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Coherent Malaysia Sdn Bhd — Job application form"
+  ]
+ },
+ {
+  "url": "mailto:HRMalaysia@Coherent.com?subject=Resume%20Submission&body=Hi%20Team,%0APlease%20find%20my%20attached%20resume%20for%20your%20consideration.%0AThank%20you.",
+  "final_url": "mailto:HRMalaysia@Coherent.com?subject=Resume%20Submission&body=Hi%20Team,%0APlease%20find%20my%20attached%20resume%20for%20your%20consideration.%0AThank%20you.",
+  "status": null,
+  "verdict": "skipped (not http)",
+  "used_by": [
+   "Coherent Malaysia Sdn Bhd — Email your resume"
+  ]
+ },
+ {
+  "url": "mailto:hrmalaysia@coherent.com?subject=Coherent%20Malaysia%20Quest%20University%20Open%20Interview%20Job%20Application",
+  "final_url": "mailto:hrmalaysia@coherent.com?subject=Coherent%20Malaysia%20Quest%20University%20Open%20Interview%20Job%20Application",
+  "status": null,
+  "verdict": "skipped (not http)",
+  "used_by": [
+   "Coherent Malaysia Sdn Bhd — Email job application (from the booth form)"
+  ]
+ },
+ {
+  "url": "https://corazautpcareerfair2026.netlify.app",
+  "final_url": "https://corazautpcareerfair2026.netlify.app",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Coraza Systems Malaysia Sdn Bhd — Coraza TEC 2026 talent pool"
+  ]
+ },
+ {
+  "url": "https://qrcodegeneratorscanprd.azurewebsites.net/Scanner/Navigate?qrcodeid=7983e2e0-0e58-4534-abb3-08de5316d76c",
+  "final_url": "https://jobs.sea.deloitte.com/search/?createNewAlert=false&q=&locationsearch=Malaysia&optionsFacetsDD_country=&optionsFacetsDD_customfield2=Graduate+/+Intern&optionsFacetsDD_dept=",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Deloitte Southeast Asia — Begin your journey with us"
+  ]
+ },
+ {
+  "url": "https://qrcodegeneratorscanprd.azurewebsites.net/Scanner/Navigate?qrcodeid=47334d33-6194-451f-2075-08ded57fef0a",
+  "final_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=8UXaNizdH02vE1q-RrmZIY4JM8zXiAtIocLb4sGLwW9UQUVZNFVWVlUyOTAwU1FLUkxCV1VRWlFDTi4u&origin=lprLink&route=shorturl",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Deloitte Southeast Asia — Stay updated with our career opportunities"
+  ]
+ },
+ {
+  "url": "https://forms.gle/Yb7mygAXvwizDuwJA",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSfUuk3PCpFllESgDaqp7H3S6a-ad8i15cioHPu1J0Hw-PdGyw/viewform?usp=send_form",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "Duopharma Biotech Berhad — Apply now form"
+  ]
+ },
+ {
+  "url": "https://jobs.exxonmobil.com/search/?locationsearch=Malaysia",
+  "final_url": "https://jobs.exxonmobil.com/search/?locationsearch=Malaysia",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "ExxonMobil — ExxonMobil jobs — Malaysia"
+  ]
+ },
+ {
+  "url": "https://datalink-my.gtsdata.huawei.com/datalinkpro/web/#/openFormFill?hashcode=SxmQK1M/5CT4DQl89WSsanOnTi3VS7YnWuQyw1L9Zpk=",
+  "final_url": "https://datalink-my.gtsdata.huawei.com/datalinkpro/web/#/openFormFill?hashcode=SxmQK1M/5CT4DQl89WSsanOnTi3VS7YnWuQyw1L9Zpk=",
+  "status": null,
+  "verdict": "error (URLError)",
+  "used_by": [
+   "Huawei Technologies (Malaysia) Sdn Bhd — Resume submission form"
+  ]
+ },
+ {
+  "url": "https://docs.google.com/forms/d/1TVjS-EF9zMLMrTZbRUnbesAyPLnS966yL8Egyqk9fQE/edit?pli=1",
+  "final_url": "https://docs.google.com/forms/d/1TVjS-EF9zMLMrTZbRUnbesAyPLnS966yL8Egyqk9fQE/viewform?pli=1&pli=1&edit_requested=true",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "i-Chem Solution Sdn Bhd (APC Group) — Application form"
+  ]
+ },
+ {
+  "url": "https://www.ifp.com.my/career-2/",
+  "final_url": "https://www.ifp.com.my/career-2/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "IFP Engineering (IFP Group) — IFP career page"
+  ]
+ },
+ {
+  "url": "mailto:recruitment@ifp.com.my?subject=Job Application Request - Position",
+  "final_url": "mailto:recruitment@ifp.com.my?subject=Job Application Request - Position",
+  "status": null,
+  "verdict": "skipped (not http)",
+  "used_by": [
+   "IFP Engineering (IFP Group) — Email your CV"
+  ]
+ },
+ {
+  "url": "https://boards.briohr.com/inpex-17774pit4u",
+  "final_url": "https://boards.briohr.com/inpex-17774pit4u",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "INPEX Malaysia — INPEX Malaysia job board"
+  ]
+ },
+ {
+  "url": "https://www.inpex.com/english/",
+  "final_url": "https://www.inpex.com/english/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "INPEX Malaysia — INPEX website"
+  ]
+ },
+ {
+  "url": "https://forms.cloud.microsoft/r/Lw20hC3rep?origin=QRCode",
+  "final_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Au2_cDCry0eJtSn7exIl4dLVG0ruTJNAoqP5Zgb_4fRUN1RXT0Q2VjNCSDVORk5ZVjk1TTNVMzk5SS4u&origin=QRCode&route=shorturl",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "ISEP (M) Sdn Bhd — Resume submission form"
+  ]
+ },
+ {
+  "url": "https://ise-p.com.my/career/",
+  "final_url": "https://ise-p.com.my/career/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "ISEP (M) Sdn Bhd — ISEP career page"
+  ]
+ },
+ {
+  "url": "https://www.klk.com.my/career/vacancies/",
+  "final_url": "https://www.klk.com.my/career/vacancies/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Kuala Lumpur Kepong Berhad (KLK) — KLK career vacancies"
+  ]
+ },
+ {
+  "url": "https://my.jobstreet.com/companies/kuala-lumpur-kepong-berhad-168556828562725?tracking=ILC-CompanyProfile-SuggestedSearch",
+  "final_url": "https://my.jobstreet.com/companies/kuala-lumpur-kepong-berhad-168556828562725?tracking=ILC-CompanyProfile-SuggestedSearch",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Kuala Lumpur Kepong Berhad (KLK) — JobStreet company page"
+  ]
+ },
+ {
+  "url": "https://www.linkedin.com/company/klkberhad/",
+  "final_url": "https://www.linkedin.com/company/klkberhad/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Kuala Lumpur Kepong Berhad (KLK) — LinkedIn"
+  ]
+ },
+ {
+  "url": "https://www.instagram.com/klkcareers/",
+  "final_url": "https://www.instagram.com/klkcareers/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Kuala Lumpur Kepong Berhad (KLK) — Instagram"
+  ]
+ },
+ {
+  "url": "https://www.facebook.com/KLKCareers",
+  "final_url": "https://www.facebook.com/KLKCareers",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Kuala Lumpur Kepong Berhad (KLK) — Facebook"
+  ]
+ },
+ {
+  "url": "https://forms.gle/ha3ncW6VGBtEDgM67",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLScT_x99Rjr763Pn7zDHR-Tq6xcGvQMOmrS_g3YKtALUkzN9aA/viewform?usp=send_form",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "Malayan Flour Mills Berhad (MFM Group) — Group application form"
+  ]
+ },
+ {
+  "url": "https://rebrand.ly/ProductionEngineerTDP25",
+  "final_url": "https://jobs.smartrecruiters.com/ni/MFMB/8f31c244-b147-453b-bf7c-ecca8729a6d4-production-engineer-talent-development-programme-2025",
+  "status": 400,
+  "verdict": "DEAD (400)",
+  "used_by": [
+   "Malayan Flour Mills Berhad (MFM Group) — Production Engineer TDP"
+  ]
+ },
+ {
+  "url": "https://docs.google.com/forms/d/1MkORmtvJ5jI1H709-VjqdPbKvlYmJX_fY7CZB-kuFSw/edit",
+  "final_url": "https://docs.google.com/forms/d/1MkORmtvJ5jI1H709-VjqdPbKvlYmJX_fY7CZB-kuFSw/viewform?edit_requested=true",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "Megagenix — Application form (CV + transcript)"
+  ]
+ },
+ {
+  "url": "https://megagenix.com.sg/",
+  "final_url": "https://megagenix.com.sg/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Megagenix — Website"
+  ]
+ },
+ {
+  "url": "https://www.linkedin.com/company/megagenix",
+  "final_url": "https://www.linkedin.com/company/megagenix",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Megagenix — LinkedIn"
+  ]
+ },
+ {
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSdlzQ-FfI9HQR0JFb6nX_o4D_SCdPbdMHPAW8BxEOHJ3MPegw/viewform?usp=dialog",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSdlzQ-FfI9HQR0JFb6nX_o4D_SCdPbdMHPAW8BxEOHJ3MPegw/viewform?usp=dialog",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "Menicon Malaysia — Application form"
+  ]
+ },
+ {
+  "url": "https://micron.eightfold.ai/events/candidate?plannedEventId=bzR4LO3W",
+  "final_url": "https://micron.eightfold.ai/events/candidate?plannedEventId=bzR4LO3W",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Micron Malaysia — Micron career event — drop your resume"
+  ]
+ },
+ {
+  "url": "https://careers.micron.com/careers",
+  "final_url": "https://careers.micron.com/careers",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Micron Malaysia — Micron careers"
+  ]
+ },
+ {
+  "url": "https://ofsmalaysia-spring.us.careers.hr/?",
+  "final_url": "https://ofsmalaysia-spring.us.careers.hr/?",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "MODEC — OFS Malaysia Spring — graduates & interns"
+  ]
+ },
+ {
+  "url": "https://www.canvaqr.com/RGTUPA0JOD",
+  "final_url": "https://www.careers-page.com/mubadalaenergy/job/3W8Y5X5W",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Mubadala Energy — 2027 internship application"
+  ]
+ },
+ {
+  "url": "https://drive.google.com/file/d/1-6yRz-da4-5qwqeDRVWNy400r5x8gBim/view?usp=drive_link",
+  "final_url": "https://drive.google.com/file/d/1-6yRz-da4-5qwqeDRVWNy400r5x8gBim/view?usp=drive_link",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Mubadala Energy — About Mubadala Energy (document)"
+  ]
+ },
+ {
+  "url": "https://career-murata-malaysia.mmemyspace.com/vacancy.php",
+  "final_url": "https://career-murata-malaysia.mmemyspace.com/vacancy.php",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Murata Electronics (M) Sdn Bhd — Murata Malaysia vacancies"
+  ]
+ },
+ {
+  "url": "https://career-murata-malaysia.mmemyspace.com/",
+  "final_url": "https://career-murata-malaysia.mmemyspace.com/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Murata Electronics (M) Sdn Bhd — Murata Malaysia career page"
+  ]
+ },
+ {
+  "url": "https://qr.generatorqr.com/32QdlLbNZ",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSfpcdmiQrqDU7-PbH-w_NojHTSmD1w8mamh0u0nBjxLoWdtDw/viewform?usp=send_form",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "NationGate Solution (M) Sdn Bhd — Application form"
+  ]
+ },
+ {
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSeAImEWDyuRubrL4LEpcQ3-yA-U6a2Jnu-ty8dHG76Y8HRlHA/viewform?usp=header",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSeAImEWDyuRubrL4LEpcQ3-yA-U6a2Jnu-ty8dHG76Y8HRlHA/viewform?usp=header",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "Oxford Innotech Berhad — Application form"
+  ]
+ },
+ {
+  "url": "https://www.petronas.com/careers/students-graduates#JbopTabs3",
+  "final_url": "https://www.petronas.com/careers/students-graduates#JbopTabs3",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "PETRONAS — PETRONAS Students & Graduates"
+  ]
+ },
+ {
+  "url": "https://tally.so/r/QKjyKX",
+  "final_url": "https://tally.so/r/QKjyKX",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "PMW International Berhad — Application form"
+  ]
+ },
+ {
+  "url": "https://careers.pttep.com/",
+  "final_url": "https://careers.pttep.com/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "PTTEP — PTTEP career portal"
+  ]
+ },
+ {
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfaXYoRTohuV2DXhmoXCD80RL91JnhpM_SEZnc2ZjRDFHp3aw/viewform?pli=1",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSfaXYoRTohuV2DXhmoXCD80RL91JnhpM_SEZnc2ZjRDFHp3aw/viewform?pli=1",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "PTTEP — Booth registration form"
+  ]
+ },
+ {
+  "url": "https://www.pttep.com/en/home",
+  "final_url": "https://www.pttep.com/en/home",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "PTTEP — PTTEP website"
+  ]
+ },
+ {
+  "url": "https://www.reinhausen.com/career/about-reinhausen/reinhausen-asia-pacific",
+  "final_url": "https://www.reinhausen.com/career/about-reinhausen/reinhausen-asia-pacific",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Reinhausen Asia Pacific (MR) — Reinhausen Asia Pacific careers"
+  ]
+ },
+ {
+  "url": "https://careers.se.com/event-5779/talentcommunity/form?lang=en-US",
+  "final_url": "https://careers.se.com/event-5779/talentcommunity/form?lang=en-US",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Schneider Electric — Schneider talent community form"
+  ]
+ },
+ {
+  "url": "https://go.shell.com/46yK1Rr?r=qr",
+  "final_url": "https://shell.wd3.myworkdayjobs.com/en-GB/shellcareers?source=APPLICANT_SOURCE_QRCode&locationCountry=972dc4ba8d454bc0b893ff84b1529077",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Shell — Shell jobs — apply online"
+  ]
+ },
+ {
+  "url": "https://stratusauto.com/careers/",
+  "final_url": "https://stratusauto.com/careers/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Stratus Automation — Stratus careers"
+  ]
+ },
+ {
+  "url": "https://qr.generatorqr.com/5KFD3Qg8W",
+  "final_url": "https://drive.google.com/file/d/1rJlu4ff_Bh_1GficVXWC0oGKtAthuSLa/view?usp=drivesdk",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Synthomer — \"Scan here to learn more\" (programme document)"
+  ]
+ },
+ {
+  "url": "https://www.linkedin.com/company/synthomer",
+  "final_url": "https://www.linkedin.com/company/synthomer",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Synthomer — LinkedIn (job openings)"
+  ]
+ },
+ {
+  "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=SaU6xmEXGky5XLuk7IE_KNxGxWpiG8xKrJ8BU2o381dUM1BJTE1TQVIzVlQzQ0RLSE9BODUyRlcwTi4u&origin=QRCode",
+  "final_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=SaU6xmEXGky5XLuk7IE_KNxGxWpiG8xKrJ8BU2o381dUM1BJTE1TQVIzVlQzQ0RLSE9BODUyRlcwTi4u&origin=QRCode",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "THMY Technologies Sdn Bhd — Career application form"
+  ]
+ },
+ {
+  "url": "https://jobs.totalenergies.com/fr_FR/careers/JobDetail/?jobId=84317&entityId=84317",
+  "final_url": "https://jobs.totalenergies.com/fr_FR/careers/Error",
+  "status": 404,
+  "verdict": "DEAD (404)",
+  "used_by": [
+   "TotalEnergies — Talent pool registration (job page)"
+  ]
+ },
+ {
+  "url": "https://totalenergies.com/",
+  "final_url": "https://totalenergies.com/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "TotalEnergies — TotalEnergies website"
+  ]
+ },
+ {
+  "url": "https://www.ttm.com/en/join-ttm/join-ttm-asia-pacific/ttm-penang",
+  "final_url": "https://www.ttm.com/en/join-ttm/join-ttm-asia-pacific/ttm-penang",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "TTM Technologies Malaysia Sdn Bhd — TTM Penang careers"
+  ]
+ },
+ {
+  "url": "https://www.canvaqr.com/RGOzRC1FvM",
+  "final_url": "https://drive.google.com/file/d/1mxavz_MPrMv7RJP_08dSHr_zYX_pv3_W/view?usp=drive_link",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "U Mobile — Booth \"Scan to apply\" QR (UTP 2026 PDF)"
+  ]
+ },
+ {
+  "url": "https://www.linkedin.com/company/unisem/?viewAsMember=true",
+  "final_url": "https://www.linkedin.com/company/unisem/?viewAsMember=true",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Unisem (M) Bhd — LinkedIn (career opportunities)"
+  ]
+ },
+ {
+  "url": "https://qr.generatorqr.com/34RHtqMbb",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSf5R6ZRSRo_5CV3ecYbn_t_nZvET3sCCofZVKmmtjss19MIfA/viewform?usp=publish-editor",
+  "status": 401,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "Unit Concept Sdn Bhd — Internship application form"
+  ]
+ },
+ {
+  "url": "https://www.vancebioenergy.com/",
+  "final_url": "https://www.vancebioenergy.com/",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Vance Bioenergy Sdn Bhd — Vance Bioenergy website"
+  ]
+ },
+ {
+  "url": "https://forms.gle/aYnYdJTsdZQbahfm7",
+  "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYQc-TkIr-tKqWMkNITn7uSGtiYnUE5TbhcSuCrkZ5HedzuQ/closedform",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "SEEd.Lab (Social Enterprise Education Lab) — Register your interest"
+  ]
+ },
+ {
+  "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=43sYhH4D7EGInKFQ_kdkMh2QKxJIP49NkeSyRNKIsnxUMTJNT1ZEOVIyRDlFU1NLUEMwSUc2SVVIMyQlQCNjPTEu&origin=QRCode",
+  "final_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=43sYhH4D7EGInKFQ_kdkMh2QKxJIP49NkeSyRNKIsnxUMTJNT1ZEOVIyRDlFU1NLUEMwSUc2SVVIMyQlQCNjPTEu&origin=QRCode",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "UTP Technopreneurship Office (TECHNO) — UToPIA registration"
+  ]
+ },
+ {
+  "url": "https://qrco.de/bdIu2e",
+  "final_url": "https://www.officialenergyasia.com/",
+  "status": 403,
+  "verdict": "ok (needs sign-in)",
+  "used_by": [
+   "Energy Asia 2027 (Energy Park) — Energy Asia info"
+  ]
+ },
+ {
+  "url": "https://wa.me/message/S7K7DSHBK26ZC1?src=qr",
+  "final_url": "https://api.whatsapp.com/message/S7K7DSHBK26ZC1?autoload=1&app_absent=0",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Ultifresh — WhatsApp"
+  ]
+ },
+ {
+  "url": "https://www.ultifresh.net/catalogues",
+  "final_url": "https://www.ultifresh.net/catalogues",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "Ultifresh — E-catalogue"
+  ]
+ },
+ {
+  "url": "https://estore.goodmorning.com.my/shop",
+  "final_url": "https://estore.goodmorning.com.my/shop",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "GoodMorning — eStore"
+  ]
+ },
+ {
+  "url": "https://www.sunwelldigital.com",
+  "final_url": "https://www.sunwelldigital.com",
+  "status": 200,
+  "verdict": "ok",
+  "used_by": [
+   "GoodMorning — SunWell Digital"
+  ]
+ },
+ {
+  "url": "https://bit.ly/401TGNY",
+  "final_url": "https://bit.ly/401TGNY",
+  "status": null,
+  "verdict": "error (URLError)",
+  "used_by": [
+   "Berjaya Times Square Theme Park — Tickets"
+  ]
+ }
+]

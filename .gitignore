@@ -1,0 +1,17 @@
+# personal tracker + superseded files
+/output/
+/archive/
+
+# large / regenerable fair files
+fairs/*/raw/
+fairs/*/processed/
+fairs/*/work/qr/crops/
+fairs/*/work/qr/generated/
+fairs/*/work/qr/thumbs/
+fairs/*/output/*_new.xlsx
+
+# python / office / local
+__pycache__/
+*.pyc
+~$*
+.claude/settings.local.json
