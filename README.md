@@ -1,5 +1,9 @@
 # Career Fair Hub
 
+A side project born out of processing UTP's TEC26 career fair by hand — sharing it in case it's useful to other job
+seekers doing the same thing, or to career-fair organisers/managers who want a clean, shareable directory of their
+own event's exhibitors instead of a pile of booth photos.
+
 Turn a career-fair photo dump (booth photos, phone screenshots, programme-booklet PDF) into:
 
 - **a shareable directory** per fair — every employer with roles, requirements, contacts, and a scannable QR code +
@@ -75,6 +79,13 @@ python -m cfhub build                # share copies + master tracker
 `name, category (job|further|startup|other|career|sponsor), booth, tier, industry, programme_type, it_roles, roles,
 requirements, min_cgpa, intake, about, contact, email, phone, website, social, how_to_apply, resume_drop, location,
 links [{label, url}] (first = QR image), qr_photo {file, box, label} (optional), share, share_reason, sources, notes`
+
+## Data & privacy
+
+`data/companies.json` only records what was printed or displayed on a company's own booth material (booth signage,
+brochure ads, application-form screenshots) — company names, roles, and the contact details each exhibitor chose to
+hand out for recruitment. No attendee's personal information is captured. If you fork this for your own fair, keep
+that same rule.
 
 ## Lessons learned (TEC26)
 
